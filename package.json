@@ -1,0 +1,16 @@
+{
+  "name": "mcdonalds-order-management",
+  "version": "1.0.0",
+  "description": "McDonald's Order Management CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "keywords": ["mcdonalds", "order", "bot"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
