@@ -1,6 +1,18 @@
-# 🍔 McDonald’s Order Controller (FeedMe Assignment)
+# 🍔 McDonald’s Order System (FeedMe Assignment)
 
 A **Node.js CLI application** that simulates McDonald’s automated cooking bot system with **VIP priority orders**, **multiple bots**, and **real-time order processing**.
+
+---
+
+## 🚀 Live Demo
+https://atikahsuhaimy12.github.io/mcdonalds-order-ui
+
+## 📦 Repositories
+Frontend (React):  
+https://github.com/atikahsuhaimy12/mcdonalds-order-ui  
+
+Backend (Node CLI):  
+https://github.com/atikahsuhaimy12/mcdonalds-order-cli  
 
 ---
 
